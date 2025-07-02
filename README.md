@@ -62,7 +62,7 @@ https://github.com/JAPHETTECH/JAPHET-XMD9
 
 **`FORK 🍴 AND STAR ⭐ JAPHET-XMD9`**
 
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/fork"><img title="DARK-SILENCE-MD" src="https://img.shields.io/badge/FORK-DARK%20SILENCE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/fork"><img title="JAPHET-XMD9" src="https://img.shields.io/badge/FORK-JAPHET-XMD9%20XMD9-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
 ### <br>02.  ❖ GET SESSION-I'D ❖
 
@@ -93,7 +93,7 @@ https://github.com/JAPHETTECH/JAPHET-XMD9
 
 ---
 
-### <h2 align="">❖ DARK-SILENCE-MD DEPLOYMENT OPTIONS ❖</h2>
+### <h2 align="">❖ JAPHET-XMD9 DEPLOYMENT OPTIONS ❖</h2>
 
 ---
 
