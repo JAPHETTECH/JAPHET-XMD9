@@ -28,20 +28,20 @@ https://github.com/JAPHETTECH/JAPHET-XMD9
 </p>
 
 <div align="center">
-  <a href="https://github.com/DARKSILENCE04/followers"><img title="Followers" src="https://img.shields.io/github/followers/DARKSILENCE04?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DARKSILENCE04/DARK-SILENCE-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DARKSILENCE04/DARK-SILENCE-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/DARKSILENCE04/DARK-SILENCE-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-SILENTLOVER-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+  <a href="https://github.com/JAPHETTECH/followers"><img title="Followers" src="https://img.shields.io/github/followers/DARKSILENCE04?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/JAPHETTECH/JAPHET-XMD9/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/JAPHETTECH/JAPHET-XMD9?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/JAPHETTECH/JAPHET-XMD9/network/members"><img title="Forks" src="https://img.shields.io/github/forks/JAPHETTECH/JAPHET-XMD9?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/JAPHETTECH/JAPHET-XMD9/"><img title="Size" src="https://img.shields.io/github/repo-size/JAPHETTECH/JAPHET-XMD9?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
+  <a href="https://github.com/JAPHETTECH/JAPHET-XMD9/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-JAPHETTECH-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DARK-SILENCE-MD&label=VISITORS&style=flat-square&color=0002FF" />
+  <img src="https://komarev.com/ghpvc/?username=JAPHET-XMD9-MD&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
 ---------
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+DARK-SILENCE-MD;IS+THE+UPDATE+VERSION;OF+SILENT-SOBX-MD;BEST+MULTI+DEVICE+BOT;CREATED+BY+SILENTLOVER+432" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=810&height=100&lines=+JAPHET-XMD9-MD;IS+THE+UPDATE+VERSION;OF+JAPHET-XMD9-MD;BEST+MULTI+DEVICE+BOT;CREATED+BY+JAPHETTECH" alt="Typing SVG" /></a>
   </p>
   
 
@@ -56,11 +56,11 @@ https://github.com/JAPHETTECH/JAPHET-XMD9
 
 ----------
 
-### <br>01.  ❖ FORK DARK-SILENCE-MD ❖
+### <br>01.  ❖ FORK JAPHET-XMD9 ❖
 
 -----------
 
-**`FORK 🍴 AND STAR ⭐ DARK-SILENCE-MD`**
+**`FORK 🍴 AND STAR ⭐ JAPHET-XMD9`**
 
   <a href="https://github.com/DARKSILENCE04/DARK-SILENCE-MD/fork"><img title="DARK-SILENCE-MD" src="https://img.shields.io/badge/FORK-DARK%20SILENCE%20MD-BOTh?color=indigo&style=for-the-badge&logo=stackshare"></a>
   
